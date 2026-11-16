@@ -2,7 +2,6 @@
 
 FUNCTIONS AND MODULE DESCRIPTIONS
 
-link to GitHub repository -> https://github.com/mukundgupta/NarayanSeva
 
 This is a platform designed to further the UN SDG-2 Zero Hunger. Our application connects donors i.e. places where food is in excess and may be wasted (schools, grocery stores, restaurants, bakeries and the like ) to places that require food to be donated (food banks, orphanages, free food centers for the homeless etc.).
 
